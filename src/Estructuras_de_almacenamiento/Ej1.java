@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Ej1 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+      /*  Scanner sc=new Scanner(System.in);
         double[] ej =new double[5];
         System.out.println("Escriba los números decimales:");
         for (int i=0; i< ej.length; i++) {
@@ -16,5 +16,8 @@ public class Ej1 {
         for (int i=0; i< ej.length; i++) {
             System.out.print(ej[i] + "\t");
         }
+
+       */
+
     }
 }

@@ -13,7 +13,7 @@ public class Ej2 {
         }
         //int i=4 es mejor ej.length -1 !!!!!!!
         for (int i= 4; i>=0; i--) {
-            System.out.print(ej[i] + "\t ");
+            System.out.print(ej[i] + " ");
         }
     }
 }
